@@ -9,7 +9,6 @@ on:
       - master
     tags:
       - v**
-  workflow_dispatch:
 
 env:
   APP_NAME: join-php-image
